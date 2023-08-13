@@ -1,14 +1,14 @@
 # EuropaCat2023
 ## Conference Poster
 
-This repository hosts the PDF version of the poster presented at the [Conference Name](Conference_Website_Link). The poster provides an overview of the research conducted and the findings obtained.
+This repository hosts the PDF version of the poster presented at the [EuropaCat2023](https://www.europacat2023.cz). The poster provides an overview of the research conducted and the findings obtained.
 
 ### Poster Details
 
 - **Title:** Title of Your Poster
 - **Conference:** EuropaCat
 - **Date:** September 2023
-- **Authors:** Benjamin M. D. Fahl, Mirijam Zobel
+- **Authors:** Benjamin M. D. Fahl, Prof. Dr. Mirijam Zobel
 - **Affiliations:** Institute for Crystallography, RWTH Aachen
 
 ### Abstract
