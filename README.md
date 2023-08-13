@@ -19,5 +19,5 @@ We utilize in-situ total scattering to probe catalyst structures during catalysi
 
 A preview of the poster is shown below. You can download the full PDF by [here](EuropaCat2023.pdf).
 
-![Poster Preview](EuropaCat2023.png)
+![Poster Preview](EuropacCat2023.png)
 
