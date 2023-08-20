@@ -8,8 +8,8 @@ This repository hosts the PDF version of the poster presented at the [EuropaCat2
 - **Title:** Understanding the Impact of Reaction Conditions on Methanation Catalyst Structure and Performance using in-situ Total Scattering
 - **Conference:** EuropaCat
 - **Date:** September 2023
-- **Authors:** Benjamin M. D. Fahl, Prof. Dr. Mirijam Zobel
-- **Affiliations:** Institute for Crystallography, RWTH Aachen
+- **Authors:** Benjamin M. D. Fahl, Fabio Manzoni, Prof. Dr. Mirijam Zobel
+- **Affiliations:** Institute of Crystallography, RWTH Aachen
 
 ### Abstract
 
