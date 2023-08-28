@@ -9,6 +9,7 @@ This repository hosts the PDF version of the poster presented at the [EuropaCat2
 - **Conference:** EuropaCat
 - **Date:** September 2023
 - **Authors:** Benjamin M. D. Fahl, Fabio Manzoni, Prof. Dr. Mirijam Zobel
+- **Contact:** Ben@fahl.io
 - **Affiliations:** Institute of Crystallography, RWTH Aachen
 
 ### Abstract
